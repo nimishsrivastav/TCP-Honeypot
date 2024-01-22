@@ -8,4 +8,4 @@ Installation
 ============
 
 Clone the git repo on your system and install the package using `pip`.
-    python3 -m pip install honeypot
+>    python3 -m pip install honeypot
